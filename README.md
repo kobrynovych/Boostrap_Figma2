@@ -3,7 +3,7 @@
 Boostrap_Figma2 ...
 
 Demo
-https://igorkob.github.io/Boostrap_Figma2
+https://kobrynovych.github.io/Boostrap_Figma2
 
 ## Table of contents
 * [Instructions](#Instructions)
@@ -15,7 +15,7 @@ https://igorkob.github.io/Boostrap_Figma2
 
 First clone this repository.
 ```bash
-$ git clone https://github.com/IgorKob/Boostrap_Figma2.git
+$ git clone https://github.com/kobrynovych/Boostrap_Figma2.git
 ```
 
 Install dependencies. Make sure you already have [`nodejs`](https://nodejs.org/en/) & [`npm`](https://www.npmjs.com/) installed in your system.
